@@ -1,5 +1,7 @@
-<h1>- 👋 Hi, I’m @JoseAdairtesDev</h1>
-- 👀 I’m interested in blockchain
+<h1>- 👋 Hi, I’m @Jose Adairtes</h1>
+
+- 👀 I’m interested in blockchain <br/>
+
 - 🌱 I’m currently learning solidity
 
 
