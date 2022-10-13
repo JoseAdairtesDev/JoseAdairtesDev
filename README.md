@@ -1,8 +1,8 @@
 <h1>- 👋 Hi, I’m @Jose Adairtes</h1>
 
-- 👀 I’m interested in blockchain <br/>
+- 👀 I’m interested in datascience <br/>
 
-- 🌱 I’m currently learning solidity
+- 🌱 I’m currently learning machine learning
 
 
 <!---
